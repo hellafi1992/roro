@@ -28,13 +28,8 @@ h1{
     translate: 0 0px;
     min-width: 75%;
     box-shadow: 0 0 15px rgb(1, 119, 244);
-    animation: alt 3s linear infinite;
 }
-@keyframes alt {
-    from{
-        filter: hue-rotate(360deg);
-    }
-}
+
 .nav2{
     translate: 0 80px;
     text-align: center;
